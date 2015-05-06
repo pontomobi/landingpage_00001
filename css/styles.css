@@ -1,0 +1,66 @@
+@font-face {
+    font-family: 'lionel_text_dieselregular';
+    src: url('fonts/liontd__-webfont.eot');
+    src: url('fonts/liontd__-webfont.eot?#iefix') format('embedded-opentype'),
+    url('fonts/liontd__-webfont.woff2') format('woff2'),
+    url('fonts/liontd__-webfont.woff') format('woff'),
+    url('fonts/liontd__-webfont.ttf') format('truetype'),
+    url('fonts/liontd__-webfont.svg#lionel_text_dieselregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'lionel_text_genuineregular';
+    src: url('fonts/liontg__-webfont.eot');
+    src: url('fonts/liontg__-webfont.eot?#iefix') format('embedded-opentype'),
+    url('fonts/liontg__-webfont.woff2') format('woff2'),
+    url('fonts/liontg__-webfont.woff') format('woff'),
+    url('fonts/liontg__-webfont.ttf') format('truetype'),
+    url('fonts/liontg__-webfont.svg#lionel_text_genuineregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'lionel_text_steamregular';
+    src: url('fonts/lionts__-webfont.eot');
+    src: url('fonts/lionts__-webfont.eot?#iefix') format('embedded-opentype'),
+    url('fonts/lionts__-webfont.woff2') format('woff2'),
+    url('fonts/lionts__-webfont.woff') format('woff'),
+    url('fonts/lionts__-webfont.ttf') format('truetype'),
+    url('fonts/lionts__-webfont.svg#lionel_text_steamregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'happinessregular';
+    src: url('fonts/happiness-webfont.eot');
+    src: url('fonts/happiness-webfont.eot?#iefix') format('embedded-opentype'),
+    url('fonts/happiness-webfont.woff2') format('woff2'),
+    url('fonts/happiness-webfont.woff') format('woff'),
+    url('fonts/happiness-webfont.ttf') format('truetype'),
+    url('fonts/happiness-webfont.svg#happinessregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+body { margin-top:30px; background-color:#b92018; color:#FFFFFF; font-family: 'lionel_text_steamregular', Georgia, Serif; background-image:url('../img/background.png'); background-repeat:repeat-x; }
+p { font-size:18px; }
+h1 { font-size:35px; }
+.welcome { margin-bottom:0px; }
+.hapiness { font-family: 'happinessregular', Georgia, Serif; color:#FFF; }
+.logo-kibon { max-width:120px }
+.icones-cidade { max-width:200px; margin-bottom:10px; }
+.mapa { max-width:150px  }
+.celular-small { max-width:200px; margin-top:20px }
+.celular-large { max-width:300px }
+.download { max-width:150px; }
+.bottom-margin { margin-bottom:0; }
